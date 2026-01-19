@@ -21,7 +21,7 @@ Mikiyas lemma(1020/17) – Algorithm & Logic Designer
 
 Michael Dagnachew(1002/17) – Input/Output & UI Developer
 
-Minase nikola(1033/17) – Error Handling & Testing Engineer
+Minase Nikola(1033/17) – Error Handling & Testing Engineer
 
 Mohammed Jemal(1049/17) – Documentation & GitHub Manager
 
