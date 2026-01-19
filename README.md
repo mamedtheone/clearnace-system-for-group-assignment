@@ -19,7 +19,7 @@ Mikiyas surafeall (1024/17) – Team Leader & Lead Programmer
 
 Mikiyas lemma(1020/17) – Algorithm & Logic Designer
 
-Mikiyas Dagnachew(1002/17) – Input/Output & UI Developer
+Michael Dagnachew(1002/17) – Input/Output & UI Developer
 
 Menase nicola(1033/17) – Error Handling & Testing Engineer
 
