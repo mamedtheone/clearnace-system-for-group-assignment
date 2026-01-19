@@ -15,9 +15,9 @@ g++ main.cpp -o clearance
 ./clearance
 # Contributers and  their Roles
 
-Mikiyas surafeall (1024/17) – Team Leader & Lead Programmer
+Mikiyas Surafeall (1024/17) – Team Leader & Lead Programmer
 
-Mikiyas lemma(1020/17) – Algorithm & Logic Designer
+Mikiyas Lemma(1020/17) – Algorithm & Logic Designer
 
 Michael Dagnachew(1002/17) – Input/Output & UI Developer
 
