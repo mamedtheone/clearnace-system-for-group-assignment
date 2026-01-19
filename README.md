@@ -13,7 +13,7 @@ The system is implemented using standard C++ features, including arrays, loops, 
 # Compilation and Execution
 g++ main.cpp -o clearance
 ./clearance
-# Group Members and Roles
+# Contributers and  their Roles
 
 Mikiyas surafeall (1024/17) – Team Leader & Lead Programmer
 
