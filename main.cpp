@@ -24,7 +24,7 @@ int main() {
         "Dorm"
     };
 
-    // Status and reason
+    // Stats and reason
     string status[5] = {"Pending", "Pending", "Pending", "Pending", "Pending"};
     string reason[5] = {"", "", "", "", ""};
 
@@ -134,4 +134,5 @@ default:
     }
 
     return 0;
+
 }
