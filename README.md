@@ -15,7 +15,7 @@ g++ main.cpp -o clearance
 ./clearance
 # Group Members and Roles
 
-Mikiyas Surafell(1024/17) – Team Leader & Lead Programmer
+Mikiyas surafeall (1024/17) – Team Leader & Lead Programmer
 
 Mikiyas lemma(1020/17) – Algorithm & Logic Designer
 
