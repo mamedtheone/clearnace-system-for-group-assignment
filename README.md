@@ -25,14 +25,6 @@ Menase nicola(1033/17) – Error Handling & Testing Engineer
 
 Mohammed Jemal(1049/17) – Documentation & GitHub Manager
 
-# Limitations
-
-No persistent data storage
-
-Limited input validation
-
-Maximum of ten subjects supported
-
 # Academic Purpose
 
 This project was developed as a collaborative academic exercise to demonstrate fundamental programming concepts in C++, including control flow, data handling, and teamwork.
