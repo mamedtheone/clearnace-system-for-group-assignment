@@ -2,29 +2,37 @@
 A C++ console application designed to manage and track university student clearance across various departments including libraries, finance, and dormitories.
 System Description
 
-# The system evaluates clearance status across five departments:
-Engineering Library
+# System Description
 
-Digital Library
-
-Finance
-
-Department
-
-Dorm
-
-A student is considered fully cleared only when all departments report a Cleared status.
+The application evaluates clearance across five departments: Engineering Library, Digital Library, Finance, Department, and Dorm. A student is considered fully cleared only when all departments grant clearance.
 
 # Implementation
 
-The program is implemented using:
+The system is implemented using standard C++ features, including arrays, loops, conditional statements, and a menu-driven interface. All data is stored temporarily during runtime.
 
-Standard input and output operations
+# Compilation and Execution
+g++ main.cpp -o clearance
+./clearance
+# Group Members and Roles
 
-Arrays for data storage
+Mikiyas Surafell – Team Leader & Lead Programmer
 
-Conditional statements and loops
+Mikiyas lemma – Algorithm & Logic Designer
 
-A menu-driven control structure
+Mikiyas Dagnachew – Input/Output & UI Developer
 
-All data is stored temporarily during program execution.
+Menase nicola – Error Handling & Testing Engineer
+
+Mohammed Jemal – Documentation & GitHub Manager
+
+# Limitations
+
+No persistent data storage
+
+Limited input validation
+
+Maximum of ten subjects supported
+
+# Academic Purpose
+
+This project was developed as a collaborative academic exercise to demonstrate fundamental programming concepts in C++, including control flow, data handling, and teamwork.
