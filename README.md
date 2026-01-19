@@ -15,15 +15,15 @@ g++ main.cpp -o clearance
 ./clearance
 # Group Members and Roles
 
-Mikiyas Surafell – Team Leader & Lead Programmer
+Mikiyas Surafell(1024/17) – Team Leader & Lead Programmer
 
-Mikiyas lemma – Algorithm & Logic Designer
+Mikiyas lemma(1020/17) – Algorithm & Logic Designer
 
-Mikiyas Dagnachew – Input/Output & UI Developer
+Mikiyas Dagnachew(1002/17) – Input/Output & UI Developer
 
-Menase nicola – Error Handling & Testing Engineer
+Menase nicola(1033/17) – Error Handling & Testing Engineer
 
-Mohammed Jemal – Documentation & GitHub Manager
+Mohammed Jemal(1049/17) – Documentation & GitHub Manager
 
 # Limitations
 
